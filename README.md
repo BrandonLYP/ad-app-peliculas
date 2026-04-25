@@ -1,5 +1,5 @@
 # APP-PELICULAS
-La app es capaz de buscar información relevante de la serie que busques mediante una API gratuita.
+La app es capaz de buscar información relevante de la serie que busques mediante una API gratuita
 
 ## Stack
 - React, JavaScript, CSS, TVMaze APi
